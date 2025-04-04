@@ -10,7 +10,16 @@ This project demonstrates how to create a URL redirect that attempts to open the
 
 ## Try It Out
 
-[![Open Settings](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)]([https://adhit21.github.io/android-redirect/](https://adhit21.github.io/android-redirect-test/)
+[![Open Settings](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)](https://adhit21.github.io/android-redirect-test/)
+
+---
+
+### **4. Publish to GitHub Pages**
+
+1. Push repository ke GitHub.
+2. Masuk ke `Settings > Pages`.
+3. Pilih `Branch: main` dan klik `Save`.
+4. Tunggu hingga URL aktif (misalnya: `https://username.github.io/android-redirect/`).
 
 ---
 
