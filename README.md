@@ -10,7 +10,7 @@ This project demonstrates how to create a URL redirect that attempts to open the
 
 ## Try It Out
 
-[![Open Settings](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)](https://adhit21.github.io/android-redirect-test/)
+[![Open TERMUX](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)](https://adhit21.github.io/android-redirect-test/)
 
 ---
 
