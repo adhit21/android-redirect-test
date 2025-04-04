@@ -10,7 +10,7 @@ This project demonstrates how to create a URL redirect that attempts to open the
 
 ## Try It Out
 
-[![Open Settings](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)](https://username.github.io/android-redirect/)
+[![Open Settings](https://img.shields.io/badge/Open%20Settings-Click%20Here-brightgreen?style=for-the-badge)](https://adhit21.github.io/android-redirect/)
 
 ---
 
